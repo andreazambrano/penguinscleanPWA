@@ -10,8 +10,8 @@ export { CommercialthreeComponent } from "./commercialthree/commercialthree.comp
 export { CommercialfourComponent } from "./commercialfour/commercialfour.component";
 export { CommercialfiveComponent } from "./commercialfive/commercialfive.component";
 export { ContactComponent } from "./contact/contact.component";
-export { CarpetComponent } from "./carpet/carpet.component";
-export { CovidComponent } from "./covid/covid.component";
+// export { CarpetComponent } from "./carpet/carpet.component";
+// export { CovidComponent } from "./covid/covid.component";
 export { QuoteComponent } from "./quote/quote.component";
 export { ProjectsComponent } from "./projects/projects.component";
 export { PrjtsComponent } from "./prjts/prjts.component";
